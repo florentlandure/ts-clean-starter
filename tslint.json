@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "no-duplicate-variable": true,
+    "max-line-length": [true, 120],
+    "no-var-keyword": true,
+    "no-shadowed-variable": true,
+    "quotemark": [true, "single", "avoid-escape"],
+    "trailing-comma": true
+  },
+  "rulesDirectory": ["node_modules/tslint-eslint-rules/dist/rules"]
+}
